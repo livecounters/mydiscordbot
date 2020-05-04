@@ -1,4 +1,0 @@
-discordAPI = [Your Bots Discord Token]
-osuAPI = [your osu! api key]
-dbURI = [your MongoDB Database's URI]
-prefix = [prefix] (Only if you want to have a different prefix)
