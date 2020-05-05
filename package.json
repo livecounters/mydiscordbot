@@ -1,21 +1,27 @@
 {
-  "name": "discord-bot",
+  "name": "mydiscordbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A bot made My Nazmul",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.2.0",
     "dotenv": "^7.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.11",
-    "node":"12.16. 3"
-  }
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livecounters/mydiscordbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livecounters/mydiscordbot/issues"
+  },
+  "homepage": "https://github.com/livecounters/mydiscordbot#readme"
 }
