@@ -1,2 +1,2 @@
-# Nazmul's DiscordBot
-A bot made My Nazmul
+# discord.js
+The code from the MenuDocs Discord.js tutorial
